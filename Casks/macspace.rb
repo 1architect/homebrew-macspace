@@ -1,6 +1,6 @@
 cask "macspace" do
-  version "1.0.1"
-  sha256 "49518c618682358dfc12bbf39ab70d5bb6a394ba73a5ac0a9a202017359599d2"
+  version "1.0.2"
+  sha256 "8d0abffbae92f6db7a645ae9cc628a380080786d9be2a2693bb5a0b76da02db8"
 
   url "https://github.com/1architect/macspace-releases/releases/download/v#{version}/MacSpace-#{version}.dmg"
   name "MacSpace"
